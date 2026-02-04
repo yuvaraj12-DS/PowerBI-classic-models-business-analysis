@@ -26,7 +26,7 @@ Data preparation and transformations were performed using Power Query.
 ```
 powerbi-classic-models-business-analysis/
 │
-├── classic_models_visualisation.pbix
+├── classic_models_visualization.pbix
 ├── README.md
 └── screenshots/
     ├── executive_dashboard.png
