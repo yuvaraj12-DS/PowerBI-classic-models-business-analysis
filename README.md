@@ -22,6 +22,8 @@ Key tables used:
 Data preparation and transformations were performed using Power Query.
 
 ## REPOSITORY structure
+
+```
 powerbi-classic-models-business-analysis/
 │
 ├── classic_models_visualisation.pbix
@@ -31,6 +33,7 @@ powerbi-classic-models-business-analysis/
     ├── product_and_sales_analysis.png
     ├── sales_trend_analysis.png
     └── customer_and_influencers.png
+```
 
 ## Key Metrics and KPIs
 The dashboard highlights the following business metrics:
@@ -82,6 +85,11 @@ The dashboard highlights the following business metrics:
 3. Navigate through pages using tabs
 4. Use slicers to filter by year, city, employee, and product line
 
+## Purpose
+This project demonstrates practical Power BI skills including data modeling, DAX calculations,
+interactive dashboard design, and business-focused analysis.
+
+
 ## About Me
 
 ### Hi there I'm Yuvaraj Singh
@@ -94,7 +102,3 @@ Freelance Profile: [Upwork - Yuvaraj Singh](https://www.upwork.com/freelancers/~
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvaraj-singh-774226350/)  
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017d638f11f360bc8e?mp_source=share)
-
-## Purpose
-This project demonstrates practical Power BI skills including data modeling, DAX calculations,
-interactive dashboard design, and business-focused analysis.
