@@ -33,6 +33,7 @@ powerbi-classic-models-business-analysis/
     ├── product_and_sales_analysis.png
     ├── sales_trend_analysis.png
     └── customer_and_influencers.png
+|Datasets
 ```
 
 ## Key Metrics and KPIs
